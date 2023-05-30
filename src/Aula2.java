@@ -11,7 +11,13 @@ public class Aula2 {
      * @param numeroDois este é o segundo parametro do método.
      * @return int o resultado deste método é a soma dos dois numeros.
      */
-    public int somar (int numeroUm, int numeroDois){
-        return numeroUm + numeroDois;
+    public int somaMultiplica(int n, int x, String m) {
+        int r = 0;
+        if (m == "M") { //M = multiplicação
+            r = n * x;
+        } else {
+            r = n + x;
+        }
+        return r;
     }
 }
