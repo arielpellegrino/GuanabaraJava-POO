@@ -1,4 +1,4 @@
-package JavaDeveloperDio.src;
+package JavaDeveloperDio.src.aulas;
 
 public class Aula8 {
     public static void main(String[] args) {

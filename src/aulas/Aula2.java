@@ -1,4 +1,4 @@
-package JavaDeveloperDio.src;
+package JavaDeveloperDio.src.aulas;
 
 //Calculadora
 public class Aula2 {

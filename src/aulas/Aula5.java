@@ -1,4 +1,4 @@
-package JavaDeveloperDio.src;
+package JavaDeveloperDio.src.aulas;
 //controle de fluxo
 public class Aula5 {
     public static void main(String[] args) {
